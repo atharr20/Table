@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+table tr th {
+    background-color: grey;
+    color: orange;
+    padding: 10px;
+    text-align: center;
+}
+
+.container {
+    margin-left: 600px;
+}
